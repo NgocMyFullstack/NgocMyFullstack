@@ -1,8 +1,10 @@
 ## 🌐Socials
+<img src="https://i.pinimg.com/564x/6f/12/fe/6f12fe33bcca4ee537155cf39c0bc73f.jpg" style="width:100px;border: 1px solid rgba(255, 0, 0, .5);border-radius:50%"/>
+
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100029632344215)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__ngoc.mmy__/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@tranngocmy2k3j)
-<img src="https://i.pinimg.com/564x/6f/12/fe/6f12fe33bcca4ee537155cf39c0bc73f.jpg" style="width:100;border: 1px solid rgba(255, 0, 0, .5);border-radius:50%"/>
 
 
 # 💫About Me :
