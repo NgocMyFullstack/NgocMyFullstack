@@ -1,5 +1,5 @@
 ## 🌐Socials
-<img src="https://i.pinimg.com/564x/6f/12/fe/6f12fe33bcca4ee537155cf39c0bc73f.jpg" style="width:100px;border: 1px solid rgba(255, 0, 0, .5);border-radius:50%"/>
+<img src="https://i.pinimg.com/564x/6f/12/fe/6f12fe33bcca4ee537155cf39c0bc73f.jpg" style="width:300px;border: 1px solid rgba(255, 0, 0, .5);border-radius:50%"/>
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100029632344215)
