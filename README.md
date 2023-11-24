@@ -1,4 +1,4 @@
-## 🌐About Me
+## 🌻About Me
 <img src="https://i.pinimg.com/564x/6f/12/fe/6f12fe33bcca4ee537155cf39c0bc73f.jpg" style="width:300px;border: 1px solid rgba(255, 0, 0, .5);border-radius:50%"/>
 
 
@@ -7,7 +7,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@tranngocmy2k3j)
 
 
-# 💫Socials
+# ⭐️Socials
 <a href="#" target="_blank">
   <img src="svg/ngocmyfullstack.svg" width="1000" alt="ngocmy-official" />
 </a>
