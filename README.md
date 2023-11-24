@@ -1,7 +1,5 @@
 # 💫About Me :
-<img src="https://i.pinimg.com/564x/6f/12/fe/6f12fe33bcca4ee537155cf39c0bc73f.jpg" style="width:500px;border: 1px solid rgba(255, 0, 0, .5);border-radius:50%"/>
-🖐Hi! I’m Trần Ngọc Mỹ, I work with Fullsatack
-
+<img src="https://i.pinimg.com/564x/6f/12/fe/6f12fe33bcca4ee537155cf39c0bc73f.jpg" style="width:1000;border: 1px solid rgba(255, 0, 0, .5);border-radius:50%"/>
 <a href="#" target="_blank">
   <img src="svg/ngocmyfullstack.svg" width="1000" alt="ngocmy-official" />
 </a>
